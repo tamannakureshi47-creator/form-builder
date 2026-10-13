@@ -1,16 +1,37 @@
-# React + Vite
+#  Form Builder
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**Create forms. Validate inputs. Simplify registration.**
 
-Currently, two official plugins are available:
+Form Builder is a modern and responsive web application built with React.js, designed to provide a clean and user-friendly registration experience with form validation and an attractive dashboard interface.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+##  Features
 
-## React Compiler
+- 📝 User registration form
+- ✅ Real-time form validation
+- 🔐 Password strength requirements
+- 🔄 Confirm password validation
+- 👤 Personal information fields
+- 📱 Responsive user interface
+- 🎨 Modern dashboard design
+- 🔁 Reset form functionality
+- ☑️ Terms and conditions agreement
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 🛠️ Tech Stack
 
-## Expanding the ESLint configuration
+- **React.js** – User interface
+- **JavaScript** – Application logic
+- **HTML5** – Structure
+- **CSS3** – Styling and layout
+- **Vite** – Development environment
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 📸 Project Preview
+
+<img width="1920" height="3417" alt="gofullpage-localhost-5174-2026-10-13-20_47_05" src="https://github.com/user-attachments/assets/4145d385-3d9a-419a-9b4e-03fe95c4f755" />
+
+
+
+## 🎯 Project Objective
+
+The objective of this project is to practice React development, build interactive forms, implement input validation, and create a clean and responsive user interface.
+
+
